@@ -1,0 +1,2 @@
+rootProject.name='implicit'
+include ':app'
