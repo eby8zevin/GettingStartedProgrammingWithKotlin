@@ -1,10 +1,10 @@
 # android-implicit
-Training Implicit-Intent Android Studio
+Implicit Intents - Android Studio
 
-Fitur Intent Implicit :
-1. Dial
-2. SMS
-3. WEB
-4. MAPS
-5. EMAIL
-6. WHATSAPP
+The Features :
+- Dial
+- SMS
+- WEB
+- MAPS
+- EMAIL
+- WHATSAPP
