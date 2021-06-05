@@ -1,4 +1,4 @@
-# android-implicit
+# android-Implicit
 Implicit Intents - Android Studio
 
 The Features :
