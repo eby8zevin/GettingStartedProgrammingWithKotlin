@@ -1,5 +1,6 @@
 package kotlinFunctionalProgramming
 
+// Scope Function
 fun main() {
 
     println(buildString)
