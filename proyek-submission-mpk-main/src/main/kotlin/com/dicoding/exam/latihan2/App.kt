@@ -22,7 +22,8 @@ package com.dicoding.exam.latihan2
  *  Jika valueC bernilai null, silakan tetapkan nilai 50 sebagai nilai default-nya
  */
 fun calculate(valueA: Int, valueB: Int, valueC: Int?): Int {
-    return 0
+    val defaultValue = valueC ?:50
+    return valueA + (valueB - defaultValue)
 }
 
 /**
@@ -32,7 +33,7 @@ fun calculate(valueA: Int, valueB: Int, valueC: Int?): Int {
  *      Result is ${result}
  */
 fun result(result: Int): String {
-    return ""
+    return "Result is $result"
 }
 
 fun main() {
