@@ -1,0 +1,94 @@
+[
+  {
+    "isPassed": true,
+    "testcaseName": "[Latihan 1] - 2 is odd number"
+  },
+  {
+    "isPassed": true,
+    "testcaseName": "[Latihan 1] - 6 is odd number"
+  },
+  {
+    "isPassed": true,
+    "testcaseName": "[Latihan 1] - 7 is not odd number"
+  },
+  {
+    "isPassed": true,
+    "testcaseName": "[Latihan 1] - 1 is not odd number"
+  },
+  {
+    "isPassed": true,
+    "testcaseName": "[Latihan 1] - result function sould be return expected value"
+  },
+  {
+    "isPassed": true,
+    "testcaseName": "[Latihan 2] - calculate result should be return 54"
+  },
+  {
+    "isPassed": true,
+    "testcaseName": "[Latihan 2] - calculate result should be return 103"
+  },
+  {
+    "isPassed": true,
+    "testcaseName": "[Latihan 2] - result function should be return expected value"
+  },
+  {
+    "isPassed": true,
+    "testcaseName": "[Latihan 3] - checkType should be return Int when passing param is `50`"
+  },
+  {
+    "isPassed": true,
+    "testcaseName": "[Latihan 3] - checkType should be return String when passing param is `Dicoding Indonesia`"
+  },
+  {
+    "isPassed": true,
+    "testcaseName": "[Latihan 3] - checkType should be return Double when passing param is `1.0`"
+  },
+  {
+    "isPassed": true,
+    "testcaseName": "[Latihan 3] - checkType should be return List when passing param is `listOf\u003cAny\u003e`"
+  },
+  {
+    "isPassed": true,
+    "testcaseName": "[Latihan 3] - checkType should be return Map when passing param is `mapOf\u003cAny, Any\u003e`"
+  },
+  {
+    "isPassed": true,
+    "testcaseName": "[Latihan 4] - vehicle function should be return Map"
+  },
+  {
+    "isPassed": true,
+    "testcaseName": "[Latihan 4] - type should be motorcycle"
+  },
+  {
+    "isPassed": true,
+    "testcaseName": "[Latihan 4] - maxSpeed should be 230Km/s"
+  },
+  {
+    "isPassed": true,
+    "testcaseName": "[Latihan 4] - maxTank should be 100Ltr"
+  },
+  {
+    "isPassed": true,
+    "testcaseName": "[Latihan 5] - execution time of sum function should be more than 3s"
+  },
+  {
+    "isPassed": true,
+    "testcaseName": "[Latihan 5] - sum function should be return 10 if valueA is 5 and valueB is 5"
+  },
+  {
+    "isPassed": true,
+    "testcaseName": "[Latihan 5] - sum function should be return 107 if valueA is 100 and valueB is 7"
+  },
+  {
+    "isPassed": true,
+    "testcaseName": "[Latihan 5] - execution time of multiple function should be more than 2s"
+  },
+  {
+    "isPassed": true,
+    "testcaseName": "[Latihan 5] - multiple function should be return 36 if valueA is 6 and valueB is 6"
+  },
+  {
+    "isPassed": true,
+    "testcaseName": "[Latihan 5] - multiple function should be return 25 if valueA is 5 and valueB is 5"
+  }
+]
